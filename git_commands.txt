@@ -11,7 +11,9 @@ git commit -m "Initial Commit"
 git status
 git log 
 
+
 git status 
 git log 
 
+git remote add origin <url>
 git push origin main
