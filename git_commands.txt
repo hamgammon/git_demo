@@ -1,1 +1,17 @@
 git init #creates a .git in the local dir current directory - Local Repo
+
+git status
+git add . or file
+
+git config
+
+git commit -m "Initial Commit"
+
+
+git status
+git log 
+
+git status 
+git log 
+
+git push origin main
